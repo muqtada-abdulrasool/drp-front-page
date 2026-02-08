@@ -1,0 +1,1 @@
+import{p as n}from"./chunk-EPOLDU6W-B7u4k31O.js";import{e as r,u as a}from"./factory-DepuMYRi.js";import{I as t}from"./CheckIcon-g7Q6k9wp.js";const s=r((e,o)=>{const p=a("TextInput",null,e);return n.jsx(t,{component:"input",ref:o,...p,__staticSelector:"TextInput"})});s.classes=t.classes;s.displayName="@mantine/core/TextInput";export{s as T};

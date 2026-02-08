@@ -1,1 +1,0 @@
-import{w as o,p as t}from"./chunk-EPOLDU6W-BPUOLUXa.js";import{C as r}from"./Container-BLS9N6pr.js";import"./factory-CiZl5hLJ.js";import"./MantineThemeProvider-D1yZ465H.js";const a=o(function(){return t.jsx(r,{children:"About"})});export{a as default};

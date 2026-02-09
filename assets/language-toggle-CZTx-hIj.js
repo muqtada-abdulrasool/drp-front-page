@@ -1,0 +1,1 @@
+import{p as e}from"./chunk-EPOLDU6W-MniqWpl7.js";import{u as r,b as s,e as t,c as n}from"./settings-state-D53DsBrJ.js";import{S as o}from"./SegmentedControl-V8St2-QZ.js";function i(){return r(n),e.jsx(o,{w:"12rem",dir:"ltr",defaultValue:t()?"ar":"en",data:[{label:"English",value:"en"},{label:"عربي",value:"ar"}],onChange:a=>{s(a)}})}export{i as L};
